@@ -1,3 +1,8 @@
+
+# 测试结果
+
+这个的原理只是个 passive dns 而已，获取的数据全是错的；最近一年上的站点，全都差不多，呵呵
+
 # HatCloud
 
 HatCloud build in Ruby. It makes bypass in CloudFlare for discover real IP.
